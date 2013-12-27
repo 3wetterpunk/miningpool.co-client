@@ -48,7 +48,7 @@ def miningpool_co():
 if __name__=="__main__":
 #	parser = optparse.OptionParser(usage)
 	parser = optparse.OptionParser("Usage: %prog -k 048ma8110kla919ka8k10al91ka -r 60")
-	parser.add_option("-k", "--key", dest="key", default="", type="string", help="Your multipool.co API Key")
+	parser.add_option("-k", "--key", dest="key", default="", type="string", help="Your miningpool.co API Key")
 	parser.add_option("-r", "--refreshrate", dest="rrate", default=30, type="int", help="Refreshrate in seconds")
 	(options, args) = parser.parse_args()
 	if len(options.key) <= 0:
