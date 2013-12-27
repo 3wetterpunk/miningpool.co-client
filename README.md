@@ -5,7 +5,7 @@ miningpool.co mining pool client - few your workers stats
 
 #########################################################################
 
-miningppool.co client to view the current stats of your coin workers.
+miningpool.co client to view the current stats of your coin workers.
 
 coded in python.
 
