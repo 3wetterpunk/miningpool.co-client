@@ -1,5 +1,5 @@
 #!/usr/bin/python
-## (c) Daniel Pletzer - daniel.pletzer [AT] gmail.com --- www.true-binary.com
+##
 ###
 
 
